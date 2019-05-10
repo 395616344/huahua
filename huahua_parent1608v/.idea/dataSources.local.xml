@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="dataSourceStorageLocal">
-    <data-source name="@39.97.117.83" uuid="8ab3bfd5-3da6-4168-aa79-5135a8900dd9">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <introspection-schemas>*:huahua_article,huahua_base,huahua_friend,huahua_gathering,huahua_qa,huahua_recruit,huahua_user</introspection-schemas>
-    </data-source>
-  </component>
-</project>
